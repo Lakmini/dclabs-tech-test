@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Sky Sports F1",
+    "category": "sky-sports",
+    "description":
+      "Watch every race of the season, exclusively on Sky Sports in the UK.",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 10
+      }
+    },
+    "contractLength": "12"
+  },
+  {
+    "name": "Sky Golf",
+    "category": "sky-sports",
+    "description":
+      "Great for those who enjoy watching grass and sky in the same show.",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 10
+      }
+    },
+    "contractLength": "12"
+  },
+  {
+    "name": "Sky Tennis",
+    "category": "sky-sports",
+    "description": "Who doesn't love tennis?",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 10
+      }
+    },
+    "contractLength": "12"
+  },
+  {
+    "name": "Sky Football",
+    "category": "sky-sports",
+    "description":
+      "Catch every premier league game of the season exclusively on Sky Sports.",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 15
+      }
+    },
+    "contractLength": "12"
+  },
+  {
+    "name": "Sky News",
+    "category": "sky-news",
+    "description": "Ideal for the news lover, you get it all. Knowledge is power.",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 30
+      }
+    },
+    "contractLength": "18"
+  },
+  {
+    "name": "Sky News HD",
+    "category": "sky-news",
+    "description": "News in even more detail, incredible HD studios.",
+    "cost": {
+      "currency": "GBP",
+      "amount": {
+        "main": 5
+      }
+    },
+    "contractLength": "12"
+  }
+]
